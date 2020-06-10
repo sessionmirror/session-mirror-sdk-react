@@ -1,0 +1,19 @@
+{
+  "name": "session-mirror-sdk-react",
+  "version": "0.0.1",
+  "author": {
+    "name": "sessionmirror",
+    "url": "https://github.com/sessionmirror/session-mirror-sdk-react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sessionmirror/session-mirror-sdk-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sessionmirror/session-mirror-sdk-react/issues"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
